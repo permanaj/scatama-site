@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "adc4f1dfc134adcec11b53ecc4d0a00b",
+    "content-hash": "d50d43b95e7a1261c95521bb6d0fe38e",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -1443,6 +1443,50 @@
                 "source": "https://github.com/drupal/core-composer-scaffold/tree/10.3.5"
             },
             "time": "2024-08-22T14:31:34+00:00"
+        },
+        {
+            "name": "drupal/lunr",
+            "version": "1.6.0",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/lunr.git",
+                "reference": "8.x-1.6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/lunr-8.x-1.6.zip",
+                "reference": "8.x-1.6",
+                "shasum": "da168ab9390c47a50d38e4d51df26bcceec47beb"
+            },
+            "require": {
+                "drupal/core": "^8 || ^9 || ^10"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "drupal": {
+                    "version": "8.x-1.6",
+                    "datestamp": "1701624228",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "samuel.mortenson",
+                    "homepage": "https://www.drupal.org/user/2582268"
+                }
+            ],
+            "description": "Provides a basic integration between Drupal and Lunr.js.",
+            "homepage": "https://www.drupal.org/project/lunr",
+            "support": {
+                "source": "https://git.drupalcode.org/project/lunr"
+            }
         },
         {
             "name": "drupal/tome",
