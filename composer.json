@@ -26,7 +26,8 @@
         "drupal/tome": "^1",
         "drupal-tome/tome_drush": "dev-master",
         "webflo/drupal-finder": "^1.2",
-        "drupal/lunr": "^1.6"
+        "drupal/lunr": "^1.6",
+        "drupal/simple_sitemap": "^4.2"
     },
     "scripts": {
         "symlink": "./scripts/symlink.sh",
