@@ -1,0 +1,91 @@
+{
+    "uuid": [
+        {
+            "value": "903f8f06-2814-490d-958d-0d9588cdc82b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "flexible_page",
+            "target_type": "node_type",
+            "target_uuid": "1cf0f283-a45a-4abc-af94-5101c233403c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2024-10-03T02:05:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "9f4ce371-773c-40a1-baad-28db670844fd"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "9f4ce371-773c-40a1-baad-28db670844fd"
+        }
+    ],
+    "title": [
+        {
+            "value": "Example page"
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-10-03T02:03:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2024-10-03T02:05:59+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Pellentesque quis auctor elit, sollicitudin facilisis leo. Donec consequat sit amet nisl eget posuere. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus a consectetur ligula. Duis facilisis imperdiet magna suscipit ultrices. Nullam laoreet accumsan lectus, sit amet interdum elit gravida et. Praesent et luctus lorem.<\/p><p>In pellentesque dui in augue condimentum, non accumsan sem luctus. Vestibulum iaculis porta ipsum, et tristique nulla sodales vehicula. Sed vitae ultricies ligula. Aliquam et eros ornare, lobortis odio et, aliquam nunc. Nunc at nunc porta, maximus nisl eu, vulputate nulla. Vivamus suscipit pulvinar lectus, nec lacinia arcu tristique eget. Cras rhoncus a ex in placerat. Nunc condimentum nec justo nec sollicitudin. Donec mi velit, fringilla non posuere sed, eleifend nec justo. Vivamus consectetur libero sed placerat ornare. Donec vulputate id diam ac imperdiet.<\/p>",
+            "format": "basic_html",
+            "summary": "Pellentesque quis auctor elit, sollicitudin facilisis leo. Donec consequat sit amet nisl eget posuere."
+        }
+    ]
+}

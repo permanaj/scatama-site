@@ -1,0 +1,23 @@
+uuid: c28e9d6c-c281-4a08-9080-957986badf91
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: page
+label: Page
+type: 'canonical_entities:node'
+pattern: '[node:title]'
+selection_criteria:
+  abb1184e-3d21-44c0-9958-20d43a05cc9e:
+    id: 'entity_bundle:node'
+    negate: false
+    uuid: abb1184e-3d21-44c0-9958-20d43a05cc9e
+    context_mapping:
+      node: node
+    bundles:
+      flexible_page: flexible_page
+      page: page
+selection_logic: and
+weight: -5
+relationships: {  }

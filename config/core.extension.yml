@@ -25,6 +25,7 @@ module:
   filter: 0
   help: 0
   image: 0
+  layout_builder: 0
   layout_discovery: 0
   link: 0
   lunr: 0
