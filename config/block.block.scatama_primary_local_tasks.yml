@@ -8,8 +8,8 @@ _core:
   default_config_hash: nGE3EoPQQaQCuqTUtZgw0-KIzmrqdKDzdNQf2JyPUt4
 id: scatama_primary_local_tasks
 theme: scatama
-region: navbar_branding
-weight: -4
+region: header
+weight: -6
 provider: null
 plugin: local_tasks_block
 settings:

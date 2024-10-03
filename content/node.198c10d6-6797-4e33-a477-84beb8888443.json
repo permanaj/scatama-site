@@ -1,0 +1,90 @@
+{
+    "uuid": [
+        {
+            "value": "198c10d6-6797-4e33-a477-84beb8888443"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "flexible_page",
+            "target_type": "node_type",
+            "target_uuid": "1cf0f283-a45a-4abc-af94-5101c233403c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2024-10-03T02:32:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "9f4ce371-773c-40a1-baad-28db670844fd"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "9f4ce371-773c-40a1-baad-28db670844fd"
+        }
+    ],
+    "title": [
+        {
+            "value": "Test page"
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-10-03T02:30:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2024-10-03T02:32:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [],
+    "path": [
+        {
+            "alias": "\/test-page",
+            "langcode": "en",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Ut et iaculis velit, scelerisque porttitor dui. Etiam blandit auctor suscipit. Quisque fringilla mauris vitae diam sagittis viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Proin non est commodo, tempus sem nec, lacinia ante. Sed dapibus sapien cursus nulla malesuada, sit amet fermentum nibh aliquet.&nbsp;<\/p><p>Aenean vel nibh at justo scelerisque iaculis. Nullam euismod faucibus hendrerit. Etiam non lacus sodales, maximus dolor at, tristique tellus. Pellentesque eu tincidunt velit. Nullam in finibus metus. In hac habitasse platea dictumst. Aenean sit amet sem vestibulum elit tincidunt viverra eget ac magna.&nbsp;<\/p><p>Integer elit ipsum, lacinia at elementum in, mollis a nisl. Integer justo risus, semper sed interdum id, vestibulum sit amet lectus.<\/p>",
+            "format": "basic_html",
+            "summary": "Ut et iaculis velit, scelerisque porttitor dui. Etiam blandit auctor suscipit."
+        }
+    ]
+}

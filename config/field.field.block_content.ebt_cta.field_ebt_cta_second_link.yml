@@ -1,0 +1,25 @@
+uuid: ee1010cc-1e5c-4835-a246-d7c3e1ef1d5d
+langcode: en
+status: true
+dependencies:
+  config:
+    - block_content.type.ebt_cta
+    - field.storage.block_content.field_ebt_cta_second_link
+  module:
+    - link
+_core:
+  default_config_hash: HYewglTA2MKbS8dL349fn4qm9mA-S_FxSL-Suhi0H2k
+id: block_content.ebt_cta.field_ebt_cta_second_link
+field_name: field_ebt_cta_second_link
+entity_type: block_content
+bundle: ebt_cta
+label: 'Second Link'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  title: 2
+  link_type: 17
+field_type: link

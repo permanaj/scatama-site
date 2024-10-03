@@ -12,8 +12,8 @@ _core:
   default_config_hash: KWAiziL39uEzmOJEql_wbUP2RtqGceL3WM2CfxhMelE
 id: scatama_main_menu
 theme: scatama
-region: navbar_branding
-weight: 0
+region: navbar_left
+weight: -6
 provider: null
 plugin: 'system_menu_block:main'
 settings:

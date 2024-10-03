@@ -1,0 +1,21 @@
+uuid: 0e77fe6d-db3a-4e8e-89bd-e367d03f6553
+langcode: en
+status: true
+dependencies:
+  module:
+    - block_content
+    - text
+_core:
+  default_config_hash: QzI1KYIZiUFHadsdJPmZk_6XW4wCrROvPpgDNWpBa8M
+id: block_content.field_ebt_cta_title
+field_name: field_ebt_cta_title
+entity_type: block_content
+type: text_long
+settings: {  }
+module: text
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

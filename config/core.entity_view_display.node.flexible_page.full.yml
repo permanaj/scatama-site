@@ -5,9 +5,12 @@ dependencies:
   config:
     - core.entity_view_mode.node.full
     - field.field.node.flexible_page.body
+    - field.field.node.flexible_page.layout_builder__layout
     - node.type.flexible_page
   module:
     - layout_builder
+    - layout_builder_restrictions
+    - layout_discovery
     - text
     - user
 third_party_settings:
@@ -46,6 +49,17 @@ third_party_settings:
             weight: 1
             additional: {  }
         third_party_settings: {  }
+  layout_builder_restrictions:
+    allowed_block_categories: {  }
+    entity_view_mode_restriction:
+      allowed_layouts:
+        - bs_1col
+        - bs_2col
+        - bs_3col
+        - bs_4col
+      denylisted_blocks: {  }
+      allowlisted_blocks: {  }
+      restricted_categories: {  }
 id: node.flexible_page.full
 targetEntityType: node
 bundle: flexible_page
@@ -63,4 +77,5 @@ content:
     third_party_settings: {  }
     weight: 100
     region: content
-hidden: {  }
+hidden:
+  layout_builder__layout: true

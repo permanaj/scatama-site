@@ -1,0 +1,93 @@
+{
+    "uuid": [
+        {
+            "value": "368311e5-75cf-4133-8ad6-dcf75ae8c93e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "bundle": [
+        {
+            "target_id": "image",
+            "target_type": "media_type",
+            "target_uuid": "8660ab2d-1b7a-40a4-8ecc-66c5ad2bd96b"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2024-10-03T02:40:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "9f4ce371-773c-40a1-baad-28db670844fd"
+        }
+    ],
+    "name": [
+        {
+            "value": "placeholder.png"
+        }
+    ],
+    "thumbnail": [
+        {
+            "alt": "Placeholder image aa",
+            "title": null,
+            "width": 600,
+            "height": 400,
+            "target_type": "file",
+            "target_uuid": "d983a6db-685c-4552-bcab-16eb66324a98"
+        }
+    ],
+    "created": [
+        {
+            "value": "2024-10-03T02:40:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2024-10-03T02:40:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": null,
+            "pid": null,
+            "langcode": "en",
+            "pathauto": 0
+        }
+    ],
+    "field_media_image": [
+        {
+            "alt": "Placeholder image aa",
+            "title": "",
+            "width": 600,
+            "height": 400,
+            "target_type": "file",
+            "target_uuid": "d983a6db-685c-4552-bcab-16eb66324a98"
+        }
+    ]
+}
