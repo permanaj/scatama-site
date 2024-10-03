@@ -1,0 +1,22 @@
+uuid: 7d8535ac-6ab3-459e-908f-80645c718746
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - scatama
+_core:
+  default_config_hash: eYL19CLDyinGTWYQfBD1DswWzglEotE_kHnHx3AxTXM
+id: scatama_powered
+theme: scatama
+region: navbar_branding
+weight: 0
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  label_display: '0'
+  provider: system
+visibility: {  }

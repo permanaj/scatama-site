@@ -1,0 +1,20 @@
+uuid: 16007451-3bd0-4de8-a644-6c4ff80a5843
+langcode: en
+status: true
+dependencies:
+  theme:
+    - scatama
+_core:
+  default_config_hash: Q9_2whdOj1YIomfvsIfopROW4FT_X5pY0DjdOiOaQ5U
+id: scatama_primary_admin_actions
+theme: scatama
+region: navbar_branding
+weight: -5
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }

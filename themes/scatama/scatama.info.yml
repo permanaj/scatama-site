@@ -1,0 +1,32 @@
+name: scatama
+description: A theme based on Radix.
+screenshot: screenshot.png
+core_version_requirement: ^8.7.7 || ^9.0 || ^10
+# version: VERSION
+engine: twig
+type: theme
+base theme: radix
+
+'interface translation project': scatama
+'interface translation server pattern': 'themes/custom/scatama/translations/%language.po'
+
+regions:
+  navbar_branding: Navbar branding
+  navbar_left: Navbar left
+  navbar_right: Navbar right
+  header: Header
+  content: Content
+  page_bottom: Page bottom
+  footer: Footer
+
+libraries:
+  - scatama/style
+
+ckeditor_stylesheets:
+  - build/css/main.style.css
+
+components:
+  namespaces:
+    scatama: src/components
+
+version: '1.0.0'

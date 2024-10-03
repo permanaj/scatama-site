@@ -1,0 +1,22 @@
+uuid: 0cc2069d-475c-4448-ad2f-0d9a5c34b7fb
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - scatama
+_core:
+  default_config_hash: VfPFqqxfkomud5CO8DUijw85QIl9GIxh_nIxLOYESxg
+id: scatama_help
+theme: scatama
+region: navbar_branding
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

@@ -1,0 +1,22 @@
+uuid: dec668ca-419e-4949-b2fc-15c1b4c2e83b
+langcode: en
+status: true
+dependencies:
+  theme:
+    - scatama
+_core:
+  default_config_hash: nGE3EoPQQaQCuqTUtZgw0-KIzmrqdKDzdNQf2JyPUt4
+id: scatama_primary_local_tasks
+theme: scatama
+region: navbar_branding
+weight: -4
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'Primary tabs'
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: false
+visibility: {  }
