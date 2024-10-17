@@ -1,0 +1,64 @@
+{
+    "uuid": [
+        {
+            "value": "8bc9b80d-3945-46ad-8367-97132b26e448"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "basic",
+            "target_type": "block_content_type",
+            "target_uuid": "942255c0-a760-48af-8f70-f975c06a7653"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2024-10-11T08:32:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "info": [
+        {
+            "value": "Hello there title"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2024-10-11T08:32:33+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "reusable": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>Hello there content<\/p>",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ]
+}

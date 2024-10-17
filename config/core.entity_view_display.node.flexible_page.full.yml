@@ -57,6 +57,9 @@ third_party_settings:
         - bs_2col
         - bs_3col
         - bs_4col
+        - seeds_1col
+        - seeds_2col
+        - seeds_3col
       denylisted_blocks: {  }
       allowlisted_blocks: {  }
       restricted_categories: {  }
